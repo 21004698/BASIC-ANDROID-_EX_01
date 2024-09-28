@@ -223,9 +223,8 @@ Activity_Main.XML:
 ```
 ## OUT PUT:
 ![361100658-e82eb6b0-6485-4622-bae7-b10572d73854](https://github.com/user-attachments/assets/2161da52-b214-421f-9c3e-f55bfad79fb6)
-![361100658-e82eb6b0-6485-4622-bae7-b10572d73854](https://github.com/user-attachments/assets/2aef0afc-cbba-4934-96e2-cefbd5ab160e)
-![361100658-e82eb6b0-6485-4622-bae7-b10572d73854](https://github.com/user-attachments/assets/5e9d1bb2-66ea-465d-91f4-2876aafc55fa)
 ![361100689-4c5a1f98-0b11-4367-9e87-f468b9d1c091](https://github.com/user-attachments/assets/8f1d57c2-1fa3-427d-8b2e-4e410f899d13)
+![361100705-c92f45a4-d542-4c8b-8f1d-6d8c3fe6c365](https://github.com/user-attachments/assets/e4498417-4901-4600-a8a2-c822899abe78)
 ![361100719-c7c6217f-2d02-4cd6-8aa9-04cf500126b2](https://github.com/user-attachments/assets/30108afe-a68d-4df3-b143-8989593b4c6f)
 
 
