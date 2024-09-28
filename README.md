@@ -221,3 +221,12 @@ Activity_Main.XML:
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+## OUT PUT:
+![WhatsApp Image 2024-08-24 at 08 57 05_b3d1abe3](https://github.com/user-attachments/assets/e82eb6b0-6485-4622-bae7-b10572d73854)
+![WhatsApp Image 2024-08-24 at 08 57 06_d8d30fa0](https://github.com/user-attachments/assets/4c5a1f98-0b11-4367-9e87-f468b9d1c091)
+![WhatsApp Image 2024-08-24 at 08 55 51_fa71b9e0](https://github.com/user-attachments/assets/c92f45a4-d542-4c8b-8f1d-6d8c3fe6c365)
+![WhatsApp Image 2024-08-24 at 08 55 51_ef1c2edc](https://github.com/user-attachments/assets/c7c6217f-2d02-4cd6-8aa9-04cf500126b2)
+
+## RESULT:
+Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
+
